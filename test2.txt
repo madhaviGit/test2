@@ -1,3 +1,4 @@
 First statement in test2.txt
 added second line
+added line in thirsty
 
