@@ -1,3 +1,2 @@
 First statement in test2.txt
 
-Hi i am master
