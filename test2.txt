@@ -1,3 +1,5 @@
 First statement in test2.txt
 
 i am thirsty
+
+Hi i am in thirsty
